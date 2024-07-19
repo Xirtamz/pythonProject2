@@ -1,0 +1,10 @@
+{
+    "amazon": {
+        "email": "example@gmail.com",
+        "password": "N0mhJ5&%0stvUj$"
+    },
+    "ebay": {
+        "email": "example@gmail.com",
+        "password": "qwerty1234"
+    }
+}
